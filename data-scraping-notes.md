@@ -22,3 +22,5 @@ Work split:
 
 Assumptions:
 - Prices are just absolute, regardless of release or change in price model. This is something we'd want to put in an acknowledgement section.
+
+Excel Link: https://docs.google.com/spreadsheets/d/180v_yYkKGz4-MStt-TrNbjb_V__sL9TiEnsTf7SthE4/edit?usp=sharing
