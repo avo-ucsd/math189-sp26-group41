@@ -1,0 +1,16 @@
+name: math189-sp26-group41
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pandas
+  - jupyterlab
+  - ipykernel
+  - pip
