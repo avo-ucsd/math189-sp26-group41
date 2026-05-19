@@ -7,14 +7,11 @@
 ### Repo Structure
 ```markdown
 data-analysis/
-├── data/
-│   ├── raw/                        # data pulled straight from scraping
-│   └── final/                      # cleaned & possibly combined data
+├── data/                             # project data 
 ├── etc/
-│   └── math189-sp26-group41.yml   # conda environment
-├── notes/
-│   └── wX_xxx.md                   # weekly meeting notes
-├── notebook_name.ipynb             # project notebooks
+│   └── math189-sp26-group41.yml      # conda environment
+├── notes/                            # weekly meeting notes
+├── (notebook_name).ipynb             # project notebooks
 └── README.md
 ```
 
