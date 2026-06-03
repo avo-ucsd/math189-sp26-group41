@@ -43,6 +43,7 @@ If it's easier to see what sections you're responsible for, here is an alternati
   - Section 2 (data)
   - Section 4.5 (Inference: review scores)
 - Kangnan
+  - Section 3.3 (EDA: retention ratios)
   - Section 4.4 (Inference: bootstrapping)
   - Section 4.4.1 (Inference: bootstrapping w/ windows)
 - Tony
