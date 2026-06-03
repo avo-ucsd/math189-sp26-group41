@@ -1,19 +1,21 @@
 # math189-sp26-group41
 
-## Question
+Our report is available [here](group41_final_report.ipynb).
+
+## Project
+### Question
 > Do free-to-play games have stronger player retention compared to paid games in the long-term through their review and player count trends on Steam?
 
+### Acknowledgements
+- Claude and ChatGPT were used for assistance in our project.
+
 ## Organization
-### Repo Structure
-```markdown
-data-analysis/
-├── data/                             # project data 
-├── etc/
-│   └── math189-sp26-group41.yml      # conda environment
-├── notes/                            # weekly meeting notes
-├── (notebook_name).ipynb             # project notebooks
-└── README.md
-```
+### Team
+- Ashley Vo
+- Ana Guzman
+- Julian Zaw
+- Kangnan Ye
+- Tony Tran
 
 ### Timeline
 | Week | Dates | What to Accomplish |
