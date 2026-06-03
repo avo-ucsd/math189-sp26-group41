@@ -23,6 +23,7 @@ Instructions:
 - Section 4.4.1 (Inference: bootstrapping w/ windows): **Kangnan**
 - Section 4.5 (Inference: review scores): **Julian**
 - Section 4.6 (Inference: retention regression model): **Ashley**
+- Section 4.7 (Inference: regression model remove var): **Tony** [IN PROGRESS]
 - Section 5 (Results): **Ashley**
 - Section 6 (Limitations): **Tony**
 
@@ -46,4 +47,5 @@ If it's easier to see what sections you're responsible for, here is an alternati
   - Section 4.4.1 (Inference: bootstrapping w/ windows)
 - Tony
   - Section 4.3 (Inference: conf. int)
+  - [IN PROGRESS] Section 4.7 (Inference: reg. model remove var)
   - Section 6 (Limitations)
